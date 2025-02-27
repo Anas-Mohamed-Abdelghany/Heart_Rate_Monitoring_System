@@ -101,8 +101,7 @@ The code is divided into the following sections:
 
 ### **Video Demo**  
 
-https://github.com/user-attachments/assets/49790ccd-61df-4092-819c-0397ef6a9ca5
-
+https://github.com/user-attachments/assets/888f92ed-696d-4c29-9af9-6b0cfff5da94
 
 ---
 
